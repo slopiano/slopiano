@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sebastian LoPiano
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning Node.js and other web applications 
+- 📫 Reach me at slopiano@stevens.edu
